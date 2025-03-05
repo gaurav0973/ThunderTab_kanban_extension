@@ -8,10 +8,7 @@ Try the web version here: [ThunderTab Live Demo](https://gaurav0973.github.io/Th
 
 ## 🎥 Demo Video
 
-<details>
-<summary>Watch Demo Video 🎬</summary>
-<video src="path-to-your-video-file" controls></video>
-</details>
+<video src="others/demo_video.mp4" controls></video>
 
 ## ✨ Features
 
