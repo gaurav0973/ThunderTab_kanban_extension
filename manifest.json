@@ -1,0 +1,14 @@
+{
+  "name": "ThunderTab",
+  "short_name": "ThunderTab",
+  "description": "A simple Kanban board extension",
+  "permissions": ["storage"],
+  "version": "1.0",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_icon": "icons/icon.png"
+  }
+}
