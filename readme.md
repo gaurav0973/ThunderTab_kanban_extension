@@ -65,18 +65,6 @@ The extension includes:
 3. Click the reload button on the extension
 4. Open a new tab to see changes
 
-## Files Structure
-
-```
-kanban-board-extension/
-│
-├── manifest.json        # Extension configuration
-├── index.html          # Main interface
-├── style.css          # Styling
-├── scripts.js         # Core functionality
-└── icon.png           # Extension icon
-```
-
 ## 🎨 Screenshots
 
 ![ThunderTab Screenshot](others/demo.png)
