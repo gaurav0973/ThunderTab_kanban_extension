@@ -1,8 +1,19 @@
-# Kanban Board Chrome Extension
+# ThunderTab - Kanban Board Chrome Extension
 
 A simple and intuitive Kanban Board that replaces your new tab page in Chrome. Organize your tasks across Todo, In Progress, and Done boards.
 
-## Features
+## 🔴 Live Demo
+
+Try the web version here: [ThunderTab Live Demo](https://gaurav0973.github.io/ThunderTab_kanban_extension/)
+
+## 🎥 Demo Video
+
+<details>
+<summary>Watch Demo Video 🎬</summary>
+<video src="path-to-your-video-file" controls></video>
+</details>
+
+## ✨ Features
 
 - ✨ Replaces new tab page with a Kanban board
 - 📝 Create and manage tasks easily
@@ -12,12 +23,11 @@ A simple and intuitive Kanban Board that replaces your new tab page in Chrome. O
 - ✏️ Edit tasks with double-click
 - 🗑️ Delete tasks with one click
 
-## Installation Guide
-
+### Chrome Extension
 1. **Download the Extension**
    - Clone this repository or download as ZIP
    ```bash
-   git clone https://github.com/yourusername/kanban-board-extension.git
+   git clone https://github.com/Gaurav0973/ThunderTab_kanban_extension.git
    ```
    - If downloaded as ZIP, extract it
 
@@ -70,10 +80,14 @@ kanban-board-extension/
 └── icon.png           # Extension icon
 ```
 
-## Contributing
+## 🎨 Screenshots
 
-Feel free to fork and submit pull requests!
+![ThunderTab Screenshot](others/demo.png)
 
-## License
+## 🛠️ Technologies Used
 
-This project is open source and available under the [MIT License](LICENSE).
+- HTML5
+- CSS3 (with modern animations)
+- Vanilla JavaScript
+- Chrome Extension API
+- Local Storage for data persistence
