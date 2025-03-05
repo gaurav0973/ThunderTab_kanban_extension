@@ -6,10 +6,6 @@ A simple and intuitive Kanban Board that replaces your new tab page in Chrome. O
 
 Try the web version here: [ThunderTab Live Demo](https://gaurav0973.github.io/ThunderTab_kanban_extension/)
 
-## 🎥 Demo Video
-
-<details> <summary>Watch Demo Video 🎬</summary> <video src="others/demo_video.mp4" controls></video> </details>
-
 ## ✨ Features
 
 - ✨ Replaces new tab page with a Kanban board
